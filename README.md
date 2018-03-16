@@ -43,17 +43,17 @@ V2ray控制脚本，向导式更改端口，加密方式，传输协议，享受
 ## 软件要求
 
 请使用**Xshell**连接服务器，以获得完美的中文支持以及配置文件下载功能。
-xyyhqq版安装
-## 1安装命令
+## xyyhqq版安装
+## 1xyyhqq版安装命令
 ```bash
 wget -N --no-check-certificate https://raw.githubusercontent.com/xyyhqq/v2ray.fun.backup/master/install.sh && bash install.sh
 ```
-## 2卸载命令
+## 2xyyhqq版卸载命令
 ```bash
 wget -N --no-check-certificate https://raw.githubusercontent.com/xyyhqq/v2ray.fun.backup/master/uninstall.sh && bash uninstall.sh
 ```
 
-## original
+## original版本
 ## 安装命令
 
 ```bash
