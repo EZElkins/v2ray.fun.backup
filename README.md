@@ -44,7 +44,7 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/xyyhqq/v2ray.fu
 wget -N --no-check-certificate https://raw.githubusercontent.com/xyyhqq/v2ray.fun.backup/master/uninstall.sh && bash uninstall.sh
 ```
 ## 第二步：下载VPS上 /root/config.json 客户端配置文件，与V2ray放在同一个文件夹下。
-（V2ray下载地址：https://github.com/v2ray/v2ray-core/releases/latest）
+V2ray下载地址：https://github.com/v2ray/v2ray-core/releases/latest
 
 ## 截图
 
